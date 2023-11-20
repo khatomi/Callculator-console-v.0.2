@@ -21,7 +21,7 @@ cout<<"*******************************************\n";
     cout<<"\n did you want again? \t (y,n) \n";
    cin>>did;
    } while (did=='y');   cout<<"bye";
-   
+
     break;
 
 case  '-':
